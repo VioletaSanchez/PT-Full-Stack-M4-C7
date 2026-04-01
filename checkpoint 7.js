@@ -19,7 +19,7 @@ function comparar_nums(num_uno, num_dos, num_tres, num_cuatro) {
 }
 
 // Hacemos una comparación que resulta menor que 50.
-var primera_comparación = comparar_nums(1, 20, 3, 4);
+var primera_comparación = comparar_nums(1, 2, 3, 4);
 
 // Hacemos una comparación mayor que 50.
 var segunda_comparación = comparar_nums(11, 62, 83, 24);
